@@ -1,0 +1,2 @@
+# Thika-tech
+my projects
